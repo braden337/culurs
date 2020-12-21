@@ -1,0 +1,16 @@
+{
+  "name": "culurs",
+  "version": "0.1.0",
+  "description": "Get random contrasting colors",
+  "main": "lib/culurs.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braden337/culurs.git"
+  },
+  "author": "Braden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braden337/culurs/issues"
+  },
+  "homepage": "https://github.com/braden337/culurs#readme"
+}
