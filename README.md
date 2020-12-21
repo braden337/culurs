@@ -28,9 +28,10 @@ setInterval(paint, 1000);
 ## Styling in JavaScript
 
 ```javascript
-const [primary, secondary] = culurs(0.5, 0.3);
+const colors = culurs(0.5, 0.3);
 
 function paint() {
+  const [primary, secondary] = colors();
   document.body.style.backgroundColor = primary;
   document.body.style.color = secondary;
 }
